@@ -1,0 +1,64 @@
+#top-section {
+    border:2px solid #000;
+    background-color: rgb(27, 27, 27);
+    padding: 20px;
+}
+
+#call {
+    float: right;
+}
+
+#call ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+#call ul li{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#call ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  .top-bt {
+    background-color: #4CAF50;
+    border-radius: 6px;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+header {
+     background-color: white;
+     padding: 20px;
+}
+
+header nav{
+    float: right;
+}
+
+header nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header nav ul li {
+    display: inline-block;
+    margin-left: 20px;
+  }
+  
+  header nav ul li a {
+    color: #000;
+    text-decoration: none;
+  }
+
