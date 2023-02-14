@@ -61,4 +61,33 @@ header nav ul {
     color: #000;
     text-decoration: none;
   }
+  .why{
+    background-image: url("./Images/back.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    color: white;
+    padding: 100px;
+  }
+#ad li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 5px;
+    padding: 25px;
+    text-decoration: none;
+    color: black;
+  }
 
+  #about{
+    background-color: rgb(228, 220, 220);
+    padding: 50px;
+  }
+  .img2 {
+    float: right;
+  }
+  
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
