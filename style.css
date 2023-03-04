@@ -91,3 +91,52 @@ header nav ul {
     clear: both;
     display: table;
   }
+
+  #services p{
+    text-align: center;
+  }
+#card {
+  text-align: center;
+}
+  #card li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 5px;
+    padding: 25px;
+    text-decoration: none;
+    color: black;
+    border:2px solid rgb(146, 234, 146);
+  }
+  
+  #portfolio{
+background-color:black;
+color: white;
+text-align: center;
+padding: 50px;
+  }
+#portimg img {
+width: 150px;
+height: 150px;
+
+}
+
+#con {
+  text-align: center;
+  padding: 20px;
+}
+#con ul {
+
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#con ul li{
+  display: inline-block;
+  margin-left: 20px;
+}
+
+#con ul li a {
+  text-decoration: none;
+}
+
